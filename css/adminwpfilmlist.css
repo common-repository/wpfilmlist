@@ -1,0 +1,633 @@
+.wpfilmlist-widget-bad-isbn-notice{
+    text-align: center;
+    color: red;
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+#wpfilmlist_select_stylepak_box{
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+}
+
+.wpfilmlist-widget-text-style{
+    text-align:center;
+    margin-top:30px;
+
+}
+
+.wpfilmlist-jre-cover-shortcode-class{
+    font-weight:bold;
+}
+
+#wpfilmlist-jre-backend-options-table td{
+    padding: 5px;
+}
+
+#wpfilmlist_backend_options_logo{
+
+}
+
+#wpfilmlist-purchase-line{
+    background-color: #888;
+    height: 1px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#wpfilmlist-purchase-money{
+    font-weight:bold;
+    font-style: italic;
+}
+
+#adminmenu .wp-menu-image img{
+    opacity:1;
+}
+
+#wpfilmlist-top-app-notice{
+    text-align:center;
+}
+
+#wpfilmlist-top-app-p{
+    text-align: center;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    width: 100%;
+}
+
+#wpfilmlist-mobile-app-span{
+    font-style:italic;
+    color:#4AB6FE;
+}
+
+#wpfilmlist-email-save-conf, #wpfilmlist-feedback-save-conf, #wpfilmlist-aff-save-conf{
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 25px;
+    font-style: italic;
+    color: #d54e21;
+    text-shadow: 0px 1px black;
+}
+
+#money-links{
+
+}
+
+#patreon-link{
+    display:inline-block;
+    margin:10px;
+}
+
+#wpfilmlist-patreon-img{
+    width: 100px;
+}
+
+#wpfilmlist-book-control{
+    width: 55px;
+}
+
+
+.wpfilmlist-outer-anim {
+    overflow:hidden;
+    margin: 0 auto;
+    height: 5px;
+    width: 75%;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4AB6FE;
+    opacity: 0;
+    -webkit-animation: showOuter 2s forwards;
+    -moz-animation: showOuter 2s forwards;
+    -ms-animation: showOuter 2s forwards;
+    animation: showOuter 2s forwards;
+}
+
+.wpfilmlist-inner-anim{
+    margin: 0 auto;
+    height: 10px;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-timing-function: linear;
+    -ms-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation: first 1s infinite;
+    -moz-animation: first 1s infinite;
+    -ms-animation: first 1s infinite;
+    animation: first 1s infinite;
+}
+
+
+
+@keyframes first {
+    from {background-color: white;}
+    to {background-color: rgba(240, 90, 26, 0.5);}
+    from {width: 0px;}
+    to {width: 105%;}
+}
+
+@keyframes showOuter {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+
+
+
+#wpfilmlist-upload-progress{
+    margin: 0 auto;
+    height: 10px;
+    width: 10px;
+    background-color: rgba(240, 90, 26, 0.5);
+    border-radius: 100px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4AB6FE;
+
+}
+
+.wpfilmlist-upload-anim{
+-webkit-animation-timing-function: linear;
+animation-timing-function: linear;
+    
+   -webkit-animation: first 1s infinite;
+
+animation: first 1s infinite;
+
+}
+
+
+#wpfilmlist-aff-save-conf{
+display: inline;
+    text-decoration: none;
+    border: none!important;
+    font-style: italic;
+}
+
+#wpfilmlist-jre-upload-goodreads-form{
+    text-align:center;
+}
+
+.wpfilmlist-percent{
+        color: #4AB6FE;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+
+#wpfilmlist-goodreads-checkboxes label{
+    margin-right: 10px;
+}
+
+#wpfilmlist-line-under-upload{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+    margin-bottom: 20px;
+}
+
+#wpfilmlist-form-to-gr-upload{
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+
+.wpfilmlist-goodreads-upload-desc{
+text-decoration: none;
+    border: none!important;
+    font-style: italic;
+    font-weight: initial!important;
+    font-size: 14px!important;
+    text-align: left!important;
+}
+
+.wpfilmlist-goodreads-box-class{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+#wpfilmlist-goodreads-checkboxes{
+    margin-left: 10px;
+}
+
+#wpfilmlist-top-backend-div input{
+    color: #aaaaaa;
+}
+
+#wpfilmlist-goodreads-area input{
+    width: 100%;
+}
+
+.wpfilmlist-backend-form-style{
+    border-style: solid;
+        border-color: #4AB6FE;
+    border-width: 1px;
+    padding: 10px;
+        width: 600px;
+        border-radius: 10px;
+        margin: 25px;
+        background-color: white;
+        box-shadow: 10px 10px 10px #4AB6FE;
+        
+}
+
+#wpfilmlist-feedback{
+    width: 157%;
+    height: 100px;
+}
+
+#wpfilmlist-visit-me{
+    font-variant: small-caps;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+#wpfilmlist-top-backend-div button{
+        margin: 10px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+}
+
+.toplevel_page_WP-Film-List-Options .dashicons-before img{
+    width: 30px!important;
+    margin-right: 2px!important;
+    padding: 2px 0 0!important;
+}
+
+
+#wpfilmlist-forward-creation-logo{
+        text-align:center;
+}
+
+#wpfilmlist-backend-forward-logo{
+    height: 60px;
+}
+
+#wpfilmlist-jakes-site{
+    
+}
+
+#wpfilmlist-forward-creation-logo img{
+    width: 150px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4AB6FE;
+}
+
+#wpfilmlist-goodreads-area p, #wpfilmlist-display-title, #wpfilmlist-use-shortcodes, #wpfilmlist-amazon, #wpfilmlist-email-div th p, #wpfilmlist-email{
+    font-weight: bold;
+        font-variant: small-caps;
+        font-size: 18px;
+        text-align: center;
+  
+}
+
+#wpfilmlist-jre-backend-display-options p, #wpfilmlist-use-shortcodes, #wpfilmlist-affiliate-div p, #wpfilmlist-email{
+    text-align:center;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    width: 100%;
+}
+
+#wpfilmlist-stylepaks-purchase-button{
+    color: white;
+    background-color: #4AB6FE;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+#wpfilmlist-stylepaks-purchase-button:hover{
+    box-shadow:none;
+}
+
+#wpfilmlist-goodreads-area p{
+    border-right: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    width: 100%;
+}
+
+.wpfilmlist-dynamic-input{
+    width: 100%;
+}
+
+#email-me{
+    text-align: center;
+    margin-left: auto;
+    width: 70%;
+    margin-right: auto;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#wpfilmlist-top-backend-div  #wpfilmlist-add-new-stylepak-button{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: block;
+}
+
+#wpfilmlist-premium-features-list{
+    height: 180px;
+}
+
+#wpfilmlist-premium-features-list li{
+    position:relative;
+    top:20px;
+}
+
+#wpfilmlist-my-notice-dismiss-forever{
+    display: inline-block;
+    width: 50px;
+    float: right;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+    color: white;
+    background-color: #4AB6FE;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 4px 4px 5px black;
+}
+
+#wpfilmlist-my-notice-dismiss-forever:hover{
+    box-shadow:none;
+}
+
+#wpfilmlist-add-new-stylepak-button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+}
+
+#wpfilmlist-bulk-edit-top-form{
+    width: 700px;
+}
+
+.wpfilmlist-bulk-edit-checkboxes-td{
+    padding-right:20px;
+}
+
+.wpfilmlist-amazon-affiliate-input{
+    width: 400px;
+}
+
+#wpfilmlist-dynamic-shortcode-div .wpfilmlist-bulk-edit-header{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+#wpfilmlist-bulk-edit-actions{
+    text-align: center;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    width: 80%;
+    margin-left:auto;
+    margin-right:auto;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 18px;
+}
+
+.wpfilmlist-bulk-edit-actions-div{
+    text-align:center;
+}
+
+.wpfilmlist-bulk-edit-actions-div div{
+    margin:20px;
+}
+
+#wpfilmlist-edit-notes-bulk-textarea{
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#wpfilmlist-notes-select-bulk-textarea-append{
+        margin: 10px 5px 10px 0px;
+}
+
+.wpfilmlist-backend-form-style-wpbooklistfree-advert{
+    border-style: solid;
+    border-color: #F05A1A;
+    border-width: 1px;
+    padding: 10px;
+    width: 40%;
+    border-radius: 10px;
+    margin: 25px;
+    background-size: contain;
+    background-attachment: fixed;
+    background-image:url('../assets/img/wpbooklist-background-image.png');
+    background-color: white;
+    box-shadow: 10px 10px 10px #F05A1A;
+    text-align:center;
+    display:inline-block;
+}
+
+.wpfilmlist-backend-form-style-wpgamelistfree-advert{
+    border-style: solid;
+    border-color: #36CB40;
+    border-width: 1px;
+    padding: 10px;
+    width: 40%;
+    border-radius: 10px;
+    margin: 25px;
+    background-size: contain;
+    background-attachment: fixed;
+    background-image:url('../assets/img/wpgamelist-background-image.png');
+    background-color: white;
+    box-shadow: 10px 10px 10px #36CB40;
+    text-align:center;
+    display:inline-block;
+}
+
+.wpfilmlist-backend-form-style-wpbooklistfree-advert #wpfilmlist-top-app-p{
+    padding: 10px 0px 10px 0px;
+    height:195px;
+}
+
+.wpfilmlist-backend-form-style-wpbooklistfree-advert ul{
+    font-style:italic;
+}
+
+.wpfilmlist-how-work-other-plugs{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.wpfilmlist-backend-form-style-wpbooklistfree-advert #wpfilmlist-premium-features-list{
+    height:140px;
+}
+
+
+#wpfilmlist-free-wpbooklist-advert-button a:hover{
+    box-shadow: none;
+}
+
+#wpfilmlist-free-wpgamelist-advert-button a:hover{
+    box-shadow: none;
+}
+
+#wpfilmlist-free-wpbooklist-advert-button{
+    margin: 20px 0px 30px 0px;
+}
+
+#wpfilmlist-free-wpgamelist-advert-button{
+    margin: 20px 0px 30px 0px;
+}
+
+#wpfilmlist-free-wpbooklist-advert-button a{
+    text-decoration:none;
+    background-color: #F05A1A;
+    color: white;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 10px;
+    font-style: italic;
+    box-shadow: 5px 5px 10px black;
+    cursor:pointer;
+}
+
+#wpfilmlist-free-wpgamelist-advert-button a{
+    text-decoration:none;
+    background-color: #36CB40;
+    color: white;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 10px;
+    font-style: italic;
+    box-shadow: 5px 5px 10px black;
+    cursor:pointer;
+}
+
+.wpfilmlist-backend-form-style-wpgamelistfree-advert .wpfilmlist-advert-wpgamelist-prem{
+    height:240px!important;
+}
+
+.wpfilmlist-backend-form-style-wpgamelistfree-advert .wpfilmlist-advert-wpgamelist-prem{
+    height:240px!important;
+}
+
+#wpfilmlist-premium-features-list-2{
+    height:210px;
+    font-style:italic;
+}
+
+#wpfilmlist-purchase-line-2{    
+    background-color: #888;
+    height: 1px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#wpfilmlist-purchase-line-20{    
+    background-color: #888;
+    height: 1px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#wpfilmlist-top-app-p-others{
+    margin:0px;
+}
+
+.wpfilmlist-widget-drop-down-box-class{
+    width: 100%;
+}
+
+#wpfilmlist-table-select-backup-dropdown, #wpfilmlist-table-select-backup-dropdown-restore{
+    margin-top:10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+#wpfilmlist_select_backup_box{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+#wpfilmlist-backup-download-link, #wpfilmlist-backup-restore-link{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+    background-color: #4AB6FE;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+    box-shadow: 5px 5px 10px black;
+    margin-bottom:20px;
+}
+
+.wpfilmlist-backup-download-link-for-hover:hover, .wpfilmlist-backup-restore-link-hover:hover{
+    box-shadow:none!important;
+}
+
+#wpfilmlist_download_id_p{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.wpfilmlist-backup-restore-subhead{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 65px;
+    font-style: italic;
+}
+
+.wpfilmlist-only-with-premium{
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    font-size: 15px;
+}

@@ -1,0 +1,1450 @@
+#wpfilmlist_widget_container_div{
+    display: inline-table;
+    text-align: center;
+    cursor: pointer;
+    width: 140px;
+}
+
+.wpfilmlist_saved_title_link_bulk{
+    border-style: solid;
+    border-color: #e1e1e1;
+    border-width: 0px 0px 1px 0px;
+    left: 0;
+    right: 0;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    text-align: center;
+    bottom: 60px;
+    display: -webkit-box;
+    max-width: 400px;
+    margin: 5px auto;
+    margin-bottom: 5px;
+    line-height: 1.4;
+    -webkit-line-clamp: 1;
+    line-clamp: 2;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.wpfilmlist-cast-pics{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.wpfilmlist-indiv-cast-div{
+    display: inline-block;
+    width: 110px;
+    overflow: hidden;
+    margin: 10px 10px;
+    text-align: center;
+    height: 220px;
+}
+
+.wpfilmlist-checkbox-bulk-add-class{
+    margin:0px 0px 0px 5px!important;
+}
+
+.wpfilmlist-cast-image-div{
+    border-radius: 100px;
+    height: 130px;
+    overflow: hidden;
+}
+
+.wpfilmlist-cast-images{
+    border-radius:100px;
+}
+
+.wpfilmlist-cast-character-name, .wpfilmlist-cast-character-realname, .wpfilmlist-cast-character-job{
+    margin:0px;
+    color:white;
+}
+
+.wpfilmlist-cast-character-name{
+    font-style:italic;
+}
+
+p#wpfilmlist-add-titles-button{
+    margin: 0;
+    background-color: #4AB6FE;
+    display: inline-block;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px black;
+    bottom: 10px;
+    position: relative;
+    right: 8px;
+}
+
+img#wpfilmlist-projector-reel-1{
+    width: 40px;
+}
+
+img#wpfilmlist-projector-reel-2{
+    width: 40px;
+    position: relative;
+    bottom: 86px;
+    right: 22px;
+}
+
+div#wpbooklist-movie-proj-animate-div{
+    opacity:0;
+}
+
+img.wpfilmlist-select-film-by-img-class{
+    cursor:pointer;
+}
+
+#wpfilmlist-projector-image{
+    width: 60px;
+}
+
+.wpfilmlist-image-selection-div{
+    text-align:center;
+}
+
+
+#wpfilmlist-upload-progress{
+height: 10px;
+width: 100px;
+background-color:#4AB6FE;
+}
+
+#wpfilmlist_top_top_div tr{
+    bottom-border: 0px;
+}
+
+#wpfilmlist-nobooks-app-notice li{
+    list-style:none;
+    background:none;
+}
+
+#wpfilmlist-mobile-app-span{
+    font-style:italic;
+    color:#4AB6FE;
+}
+
+#wpfilmlist-nobooks-app-notice-p{
+    font-size:16px;
+}
+
+#wpfilmlist-nobooks-app-notice{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    
+
+#wpfilmlist_display_table_2 td{
+    display: inline;
+}
+
+
+.addthis_sharing_toolbox{
+    display:inline-block;
+}
+
+.addthis_sharing_toolbox .at-icon-wrapper{
+    width: 30px!important;
+    height: 30px!important;
+        border-radius: 100px;
+}
+
+.addthis_sharing_toolbox .at-icon{
+    width: 30px!important;
+    height: 30px!important;
+}
+
+.wpfilmlist_top_container p, .wpfilmlist_top_container a{
+    text-align: center;
+    font-size: 13px;
+}
+
+#wpfilmlist-goodreads-checkboxes label{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+
+.fancybox-skin{
+    background-color:white;
+}
+
+#wpfilmlist-review-iframe{
+    height: 350px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    overflow: hidden;
+    box-shadow: 0px 0px 60px white;
+}
+
+#wpfilmlist-review-iframe body, #wpfilmlist-review-iframe html{
+    overflow: hidden;
+}
+
+
+#wpfilmlist-review-iframe{
+width: 100%;
+}
+
+.wpfilmlist-itunes-adjust img{
+    width: 55px!important;
+}
+
+img.wpquiz-image-collection{
+    width:200px;
+    margin:10px;
+}
+
+p.wpfilmlist_backdrop_image_class{
+    margin-top: 15px;
+    margin-bottom:0px;
+    font-size: 18px;
+}
+
+.wpfilmlist-line-30{
+    width: 100%;
+    height: 1px;
+    background-color: #e1e1e1;
+    position: relative;
+}
+
+.wpquiz-video-iframes{
+    margin:10px;
+}
+
+
+img.wpquiz-image-collection-backdrop{
+    margin-top:10px;
+}
+
+.wpfilmlist_top_container {
+    width: 100%;
+}
+
+.wpfilmlist_titles_container{
+    text-align: center;
+}
+
+#wpfilmlist-aff-save-conf{
+display: inline;
+    text-decoration: none;
+    border: none;
+    font-style: italic;
+}
+
+.wpfilmlist-line, .wpfilmlist-line-6{
+    width: 100%;
+    height: 1px;
+    background-color: #e1e1e1;
+    position: relative;
+    top: 12px;
+
+}
+
+#wpfilmlist-share-text{
+    margin: 0;
+    font-style: italic;
+    font-variant: small-caps;
+    margin-top: 20px;
+}
+
+
+.wpfilmlist-line-2, .wpfilmlist-line-5 {
+    width: 100%;
+    height: 1px;
+    background-color: #e1e1e1;
+    position: relative;
+    top: 7px;
+    margin-top:20px;
+}
+
+.wpfilmlist-line-3{
+    width: 100%;
+    height: 1px;
+    background-color: #e1e1e1;
+    position: relative;
+    top: 30px;
+
+}
+
+.wpfilmlist-line-4 {
+        width: 100%;
+    height: 1px;
+    background-color: #e1e1e1;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.wpfilmlist-social{
+    position: relative;
+    top: 5px;
+}
+
+.wpfilmlist-purchase-img img{
+width: 60px;
+    top: 25px;
+    left: 10px;
+    position: relative;
+    padding: 5px;
+    display: inline-block;
+}
+
+.wpfilmlist-purchase-title{
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    font-variant: small-caps;
+    margin-bottom: 0;
+    color:white;
+}
+
+
+
+desc_@supports (display: grid) {
+    .wpfilmlist_sort_box_top_container{
+        grid-column-start: 1;
+        grid-column-end: 1;wpfilmlist
+        grid-row-start: 1;
+        grid-row-end: 1;
+    }hidden_
+
+    .wpfilmlist_top_container{
+        display: grid;
+        grid-template-columns: 200px 10px auto;
+        grid-template-rows: repeat(3, auto);
+        top: 20px;
+    }
+
+    .wpfilmlist_add_title_container{
+        grid-column-start: 3;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 1;
+        justify-self: end;
+    }
+
+    .wpfilmlist_titles_container{
+        grid-column-start: 1;
+            grid-column-end: 4;
+            grid-row-start: 2;
+            grid-row-end: 3;
+    }
+}
+
+@font-face {
+    font-family: Roboto-Regular;  
+    src: local('Roboto-Regular'), 
+        url("../assets/fonts/Roboto-Regular.ttf") format('truetype');  
+    font-weight: normal;  
+}
+
+#wpfilmlist_add_book_form{
+    margin-left: auto;
+    width: 95%;
+    font-family: roboto-normal;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#wpfilmlist_edit_book_form{
+    margin-left: auto;
+    width: 95%;
+    font-family: roboto-normal;
+    margin-right: auto;
+    padding: 10px;
+}
+
+
+#wpfilmlist_date_submitted{
+    margin-bottom: 5px;
+}
+
+#wpfilmlist_add_book_submit_button{
+    margin-top: 15px;
+}
+
+
+#wpfilmlist_add_book_form p{
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+#wpfilmlist_edit_book_form p{
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+#wpfilmlist_notes{
+    display: block;
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    border-style: solid;
+    border-color: #d1d1d1;
+    border-width: 1px;
+}
+
+#wpfilmlist_desc_edit, #wpfilmlist_notes_edit{
+    font-family: roboto-regular;
+    display: block;
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    border-style: solid;
+    border-color: #d1d1d1;
+    border-width: 1px;
+}
+
+#gr_add_to_books{
+    position: relative;
+    top: 40px;
+    width: 300px;
+        margin-bottom: 30px;
+}
+
+#gr_add_to_books iframe{
+    height: 300px;
+}
+
+input{
+    border-color: #d1d1d1;
+}
+
+#wpfilmlist_signed_first_table, #wpfilmlist_signed_first_table_edit{
+    background-color:#f9f9f9;
+}
+
+#wpfilmlist_signed_first_table, #wpfilmlist_signed_first_table td, #wpfilmlist_signed_first_table_edit ,#wpfilmlist_signed_first_table_edit td{
+    border:none;
+    margin-bottom: 10px;
+}   
+
+#wpfilmlist_signed_first_table_edit tbody{
+    vertical-align: top;
+}
+
+#wpfilmlist_signed_first_table tbody{
+    vertical-align: top;
+}
+
+
+#wpfilmlist_signed_first_table input{
+    margin-right:3px;
+}
+
+
+#wpfilmlist_edit_book_form input[type="text"], #wpfilmlist_add_book_form input[type="text"], #wpfilmlist_add_book_form textarea, #wpfilmlist_edit_book_form input textarea{
+border-style: solid;
+    border-color: #d1d1d1;
+    border-width: 1px;
+    margin: 0px;
+    font-family: roboto-regular;
+    display: block;
+    width: 100%;
+}
+
+#wpfilmlist_edit_book_form input[type="checkbox"], #wpfilmlist_add_book_form input[type="checkbox"]{
+    outline: none;
+}
+
+#top #wpfilmlist_add_book_form input[type="checkbox"], #top #wpfilmlist_edit_book_form input[type="checkbox"]{
+    margin: 5px;
+}
+
+#wpfilmlist_add_book_form td, #wpfilmlist_edit_book_form td{
+    padding: 0px;
+    padding-right: 20px;
+}
+
+#wpfilmlist_year_finished_label, #wpfilmlist_year_finished, #wpfilmlist_year_finished_label_edit, #wpfilmlist_year_finished_edit{
+    opacity: 0.5;
+}
+
+#ui-datepicker-div{
+    background-color: white;
+}
+
+
+
+#wpfilmlist_cover_image{
+    padding: 0;
+    height: 170px;
+    width: 103px;
+    padding-top: 10px;
+    display: block;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    position: relative;
+    opacity: 0;
+    z-index: 1;
+    border: none;
+    background-color: transparent;
+}
+
+#wpfilmlist_cover_image:hover{
+    cursor: pointer;
+}
+
+.wpfilmlist_edit_entry_link, .wpfilmlist_delete_entry_link{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#wpfilmlist-tagline-span{
+    font-style:italic;
+    font-size:12px;
+}
+
+
+#wpfilmlist_display_image_container{
+    min-width: 145px;
+    float: left;
+    text-align:center;
+}
+
+#wpfilmlist_display_table{
+    display: flex;
+    min-width: 20%;
+    border-left: 1px;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    padding-left: 10px;
+    border-color: #e1e1e1;
+    font-family: roboto-normal;
+    line-height: 23px;
+    font-size: 13px;
+}
+
+#wpfilmlist_top_display_container table{
+    table-layout: initial;
+}
+
+#wpfilmlist_top_display_container{
+float: left;
+    width: 200px;
+}
+
+#wpfilmlist_top_top_div{
+    padding: 10px;
+    overflow: hidden;
+    height: 580px;
+}
+
+
+
+#wpfilmlist_display_table_2{
+    width: 500px;
+    border: none;
+    color: white;
+    background-color: transparent;
+    box-shadow: initial;
+    text-shadow: initial;
+        margin-bottom: 0px;
+}
+
+#wpfilmlist_display_table td{
+    border:none;
+    padding: 0px;
+}
+
+#wpfilmlist_bold{
+    font-weight:bold;
+}
+
+#wpfilmlist_image_unav_div{
+    bottom: 135px;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    color: white;
+    width: 127px;
+    font-size: 21px;
+    background-color: darkred;
+}
+
+#wpfilmlist_image_unav_p{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#wpfilmlist_image_unav_div_main{
+    bottom: 135px;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    color: white;
+    width: 127px;
+    font-size: 21px;
+    background-color: darkred;
+    right: 80px;
+}
+
+#wpfilmlist_image_unav_p_main{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#wpfilmlist_edit_link{
+
+}
+
+#wpfilmlist_delete_link{
+    right:0;
+}
+
+#wpfilmlist_top_table tr{
+    float: right;
+}
+
+#wpfilmlist_top_table td{
+    border:none;
+    margin: 0px;
+    padding:0px;
+}
+
+#wpfilmlist_cover_image_popup{
+    width:150px;
+}
+
+
+#wpfilmlist_main_display_tdiv{
+    display: inline-block;
+    margin-bottom: 30px;
+    text-align:center;
+}
+
+#wpfilmlist_main_display_tdiv .wpfilmlist_main_display_tdiv_entry td{
+    border:none;
+}
+
+#wpfilmlist_main_display_tdiv .wpfilmlist_entry_div{
+    display: inline-block;
+    box-shadow: 0px 0px 30px #888888;
+    border-collapse: separate;
+    background-color: white;
+    background-clip: padding-box;
+    border-width: 30px;
+    border-color: transparent;
+    width: 140px;
+    height: 285px;
+    padding: 10px;
+    position: relative;
+}
+
+.wpfilmlist_lower_links_tdiv td{
+    background-color: #F8F8F8;
+}
+
+.edit_entry_div{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 20px;
+}
+
+.title_link_div{
+    position:absolute;
+    bottom: 35px;
+    margin-bottom: 20px;
+    font-size: 16px;
+        font-style: italic;
+}
+
+.wpfilmlist_lower_links_tdiv{
+    width: 140px;
+    margin-top: 5px;
+        border-top: 1px;
+    border-color: #e1e1e1;
+    border-style: solid;
+    display: inline-block;
+}
+
+.hidden_id, .hidden_id_title{
+    display: none;
+}
+
+#wpfilmlist_top_display_container table td, #wpfilmlist_top_display_container table > td {
+    vertical-align: top;
+    padding-right:20px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    border: none;
+    background-color: transparent;
+    box-shadow: initial;
+    color:white;
+    text-shadow: initial;
+}
+
+#wpfilmlist_top_display_container table tr{
+    border:none;
+}
+
+#wpfilmlist_desc_button{
+    margin-top:20px;
+    font-family: roboto-regular;
+    white-space: normal;
+    line-height: 1.7;
+    display:none;
+}
+
+
+#wpfilmlist_title, #wpfilmlist_top_display_container #wpfilmlist_title, #wpfilmlist_top_display_container .wpfilmlist_description_p, .wpfilmlist_description_p, #wpfilmlist_backup_download{
+    display: inline;
+    padding-bottom: 5px;
+    line-height: 1.3;
+    vertical-align: middle;
+    font-size: 28px;
+    font-style: italic;
+    min-width: 195px;
+    max-width: 275px;
+    color:white;
+    margin-bottom: 10px;
+}
+
+#wpfilmlist_backup_download{
+    color: black;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.wpfilmlist_download_top_div{
+    text-align: center;
+    margin: 0px;
+    background-color:white;
+    font-family: roboto-regular;
+}
+
+#wpfilmlist_top_display_container > table{
+    width: 50%;
+    height: 50%;
+    border: none;
+    color:white;
+    background-color: transparent;
+    box-shadow: initial;
+}
+
+#wpfilmlist_saved_title_link{
+    font-size: 15px;
+    margin: 5px 0px 5px 0px;
+}
+
+#wpfilmlist_saved_title_link:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+input#wpfilmlist-checkbox-bulk-add-id-results{
+    margin-left:5px;
+}
+
+.wpfilmlist_desc_p_class{
+    line-height: 1.5;
+    border-style: solid;
+    border-width: 1px;
+    padding: 20px;
+    margin: 0;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    border-color: #e1e1e1;
+}
+
+#wpfilmlist_desc_id{
+    padding: 15px;
+    font-family: roboto-regular;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    text-align: center;
+    /*display: none;*/
+    border: 0;
+    border-top: 1px;
+    border-style: solid;
+    padding-left: 10px;
+    border-color: #e1e1e1;
+}
+
+#wpfilmlist_control_panel_tdiv td{
+    border:none;
+    vertical-align: bottom;
+}
+
+#wpfilmlist_control_panel_tdiv{
+
+}
+   
+.wpfilmlist_control_panel_button{
+    font-size: 14px;
+    margin-right: 9px;
+    cursor: pointer;
+}
+
+.wpfilmlist_control_panel_button:hover{
+    cursor: pointer;
+}
+
+#wpfilmlist_control_panel_tdiv #wpfilmlist_sort_select_box{
+    margin: 0px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+#wpfilmlist_edit_film_link, #wpfilmlist_delete_film_link{
+    text-decoration: underline;
+    vertical-align: text-bottom;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: initial;
+    border: none;
+    font-size: 13px;
+}
+
+#wpfilmlist_delete_film_link{
+    right: 0;
+}
+
+#wpfilmlist_delete_film_link:hover, #wpfilmlist_edit_film_link:hover{
+    cursor:pointer;
+}
+
+#wpfilmlist_edit_film_link{
+    left: 0;
+}
+
+#wpfilmlist_main_display_tdiv .wpfilmlist_lower_links_tdiv .wpfilmlist_lower_links_edit_delete_td{
+    position: absolute;
+    bottom:0;
+        border: none;
+        background-color:transparent;
+        width: 140px;
+}
+
+#wpfilmlist_main_display_tdiv tr{
+    height: 20px;
+}
+
+#wpfilmlist_delete_film_submit{
+    text-align: center;
+}
+
+#wpfilmlist_top_display_container input[type="submit"], #form_movement_edit input[type="submit"], #wpfilmlist_delete_film_submit input[type="submit"], #wpfilmlist_add_book_submit input[type="submit"]{
+    border-radius: 10px!important;
+    box-shadow:inset 0px 0px 5px rgba(136, 136, 136, 0.5)!important;
+    border-radius: 10px!important;
+    box-shadow: inset 0px 0px 5px rgba(136, 136, 136, 0.5)!important;
+    border: none;
+    padding: 9px 22px;
+    font-size: 12px;
+}
+
+#wpfilmlist_top_display_container input[type="submit"]:hover, #wpfilmlist_delete_film_submit input[type="submit"]:hover, #form_movement_edit input[type="submit"]:hover, #wpfilmlist_add_book_submit input[type="submit"]:hover{
+    box-shadow: inset 0px 0px 30px white!important;
+}
+
+#wpfilmlist_top_display_container input[type="submit"]:focus, #wpfilmlist_delete_film_submit input[type="submit"]:focus, #form_movement_edit input[type="submit"]:focus, #wpfilmlist_add_book_submit input[type="submit"]:focus{
+    outline: none!important;
+}
+
+
+
+#wpfilmlist_top_display_container #wpfilmlist_image_saved_border{
+
+ 
+    border-color: rgba(136,136,136, 0.4);
+    background-color:transparent;
+}
+
+#wpfilmlist_delete_film_form, #wpfilmlist_add_book_success{
+    text-align:center;
+    font-family: roboto-regular;
+}
+
+#wpfilmlist_delete_film_form p{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 1.4;
+    top: 15px;
+    position: relative;
+    font-style: italic;
+}
+
+#wpfilmlist_sort_select_box:focus{
+    outline: none;
+}
+
+.wpfilmlist_control_panel_stat{
+    display: inline-block;
+    border: solid;
+    border-width: 1px;
+    border-top: none;
+    border-bottom: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    border-color: #e1e1e1;
+}
+
+.wpfilmlist_stats_tdiv{
+    border-bottom: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 5px;
+    width: 100%;
+    display: inline-block;
+    margin-top: 70px;
+    border-top: 1px;
+    border-style: solid;
+    margin-bottom: 15px;
+    text-align: center;
+    border-color: #e1e1e1;
+}
+
+.wpfilmlist_sort_box_container .wpfilmlist_stats_tdiv td{
+    border: none;
+
+}
+
+#wpfilmlist_search_tdiv{
+    float: right;
+    margin-bottom: 15px;
+}
+
+
+.wpfilmlist_sort_box_container #wpfilmlist_search_tdiv td{
+    border:none;
+    vertical-align: top;
+    padding: 0px;
+}
+
+.wpfilmlist_sort_box_container #wpfilmlist_search_tdiv td p{
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+.wpfilmlist_sort_box_container #wpfilmlist_search_tdiv td p input{
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+
+#wpfilmlist_page_control_div{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    top: 10px;
+    margin-bottom: 70px;
+}
+
+#wpfilmlist_page_control_div a{
+    background-color: #F8F8F8;
+   
+    border-radius: 6px;
+    border: solid;
+    box-shadow: 0px 0px 8px #888;
+    border-color: transparent;
+
+}
+
+#wpfilmlist_page_control_div a:hover{
+    background-color: white;
+}
+
+.wpfilmlist_page_control_link_class:hover{
+    cursor: pointer;
+}
+
+
+#wpfilmlist_select_sort_form{
+    width: 130px;
+    margin-right: 10px;
+}
+
+#wpfilmlist_search_tdiv #wpfilmlist_search_text{
+    display: inline-block;
+    width: 175px;
+    margin-right: 5px;
+    float: right;
+    margin: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#wpfilmlist_search_tdiv p{
+    margin: 0px;
+}
+
+.wpfilmlist_main_display_tdiv_entry{
+    display:inline-block;
+}
+
+.wpfilmlist_top_container .wpfilmlist_entry_div .wpfilmlist_inner_main_display_div p{
+    display: block;
+    left: 0;
+    right: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    position: absolute;
+    text-align: center;
+    bottom: 50px;
+    display: -webkit-box;
+    max-width: 400px;
+    height: 45px;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    line-height: 1.4;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}
+
+.wpfilmlist_inner_main_display_div{
+    box-shadow: 0px 0px 5px #888;
+    height: 100%;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.wpfilmlist_inner_main_display_div label{
+    margin-top:10px;
+}
+
+.wpfilmlist_line_under_image{
+    position: relative;
+    top: 5px;
+    width: 70%;
+    height: 1px;
+    background-color: #e1e1e1;
+    bottom: 105px;
+    left: 0;
+    margin: 0 auto;
+    right: 0;
+}
+
+
+
+#wpfilmlist_search_checkboxes{
+    float: right;
+}
+
+#wpfilmlist_search_submit{
+    float:right;
+}
+
+#wpfilmlist_book_title_search, #wpfilmlist_author_search{
+    margin-left:10px;
+    margin-right: 3px;
+}
+
+#wpfilmlist_cat_report{
+    text-align:center;
+    display:block;
+}
+
+#wpfilmlist_missing_pages_id:hover > span{
+    display:inherit;
+}
+
+
+
+.wpfilmlist_cat_class, .wpfilmlist_page_class{
+    display:none;
+    padding: 10px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 5px 20px 13px #888;
+    z-index:1;
+    height: 200px;
+    overflow:auto;
+}
+
+.wpfilmlist_page_class p{
+    font-size:13px;
+    text-align: center;
+}
+
+.wpfilmlist_control_panel_stat .wpfilmlist_alert_hover{
+    color: red;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.wpfilmlist_page_alert_text, .wpfilmlist_cat_alert_text{
+    font-weight:bold;
+}
+
+#wpfilmlist_missing_page_link:hover{
+    cursor: pointer;
+}
+
+#wpfilmlist_missing_cat_link:hover{
+    cursor: pointer;
+}
+
+.wpfilmlist_upload_span{
+    font-size: 13px;
+    font-style: italic;
+}
+
+.wpfilmlist_backup_restore_text{
+    text-align:center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+#wpfilmlist_download_id_p{
+    margin-bottom: 35px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px;
+    border-top: 1px;
+    border-style: solid;
+    padding-left: 10px;
+    border-color: #e1e1e1;
+}
+
+#wpfilmlist_select_backup_box{
+    margin: 20px auto;
+    margin-bottom: 20px;
+    width: 80%;
+        
+}
+
+#wpfilmlist-active-page{
+    font-size: 25px;
+}
+
+
+
+#wpfilmlist_select_backup_box:focus{
+    outline: none;
+}
+
+#wpfilmlist-search-count{
+    margin-bottom: 25px;
+}
+
+.wpfilmlist_control_links_and_sort p{
+    display: inline;
+}
+
+@media screen and (max-width: 320px) {
+    .wpfilmlist_top_container{
+        width: 300px;
+            margin: 30px;
+            position: relative;
+            right: 262px;
+            top: 30px;
+    }
+    
+    #wpfilmlist_main_display_tdiv{
+        display: table;
+            margin: 0 auto;
+    }
+    
+    #wpfilmlist_main_display_tdiv .wpfilmlist_entry_div{
+        float: none;
+    }
+    
+    #wpfilmlist_page_control_div{
+        position: inherit;
+        text-align: right;
+            padding-left: 10px;
+        padding-right: 10px;
+            background-color: #e1e1e1;
+            border-radius: 5px;
+            margin-top: 15px;
+            margin-bottom: 0px;
+            bottom: inherit;
+    }
+    
+    #wpfilmlist_select_sort_form{
+        width: 300px;
+    }
+    
+    .wpfilmlist_control_links_and_sort, #wpfilmlist_search_tdiv, #wpfilmlist_search_checkboxes, #wpfilmlist_search_tdiv #wpfilmlist_search_text{
+        float: none;
+    }
+    
+    #wpfilmlist_search_checkboxes{
+        text-align:center;
+    }
+    
+    #wpfilmlist_search_tdiv #wpfilmlist_search_text{
+        width:300px;
+    }
+    
+    
+    
+    
+}
+
+@media screen and (max-width: 768px) {
+    #wpfilmlist_top_top_div{
+        height: 900px;
+        overflow: visible;
+        margin-bottom: 100px;
+    }
+    
+    .wpfilmlist-line-2, .wpfilmlist-line, .wpfilmlist-line-3{
+        width: 50%!important;
+    }
+    
+    #wpfilmlist_display_table{
+        padding: 0px;
+        border: none;
+    }
+    
+    #wpfilmlist_display_table td{
+        font-size: 12px;
+    }
+    
+    #wpfilmlist_title{
+        font-size: 18px!important;
+        margin-bottom:10px;
+        width: 100px!important;
+            display: block!important;
+    }
+    
+    .wpfilmlist-purchase-img img{
+        width: 35px;
+            top: 25px;
+            position: relative;
+            display:initial;
+            left: 0px;
+            padding: 0px;
+    }
+    
+    .wpfilmlist-purchase-title {
+            font-size: 15px!important;
+        }
+    
+    #wpfilmlist_desc_id{
+        padding: 0px;
+    font-family: roboto-regular;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 70px;
+    text-align: center;
+    border: 0;
+    border-top: 1px;
+    border-style: solid;
+    padding-left: 0;
+    border-color: #e1e1e1;
+    }
+    
+    .wpfilmlist_desc_p_class {
+    line-height: 1.5;
+    box-shadow: inset 0px 0px 20px #e1e1e1;
+    border-radius: 0px;
+    padding: 5px;
+        padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+}
+
+.wpfilmlist-table-for-app{
+    display: none;
+}
+
+#specialcaseforappid{
+    display:none;
+}
+
+#wpfilmlist-edit-delete-p-id{
+    top:85%;
+}
+
+.wpfilmlist_entry_div{
+    width: 160px;
+    display: inline-block;
+}
+}
+
+
+#wpfilmlist-background-color-image-div{
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.cboxLoadedContentForWpFilmList #wpfilmlist-top-top-div{
+    opacity:0;
+}
+
+.wpfilmlist-cast-crew-title-p{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:0px;
+}
+
+.wpfilmlist-line-50 {
+    width: 15%;
+    height: 1px;
+    background-color: #e1e1e1;
+    position: relative;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wpfilmlist_edit_film_form_top_container, .wpfilmlist_delete_film_form_top_container{
+    background-color:white;
+    padding: 10px;
+}
+
+.wpfilmlist_delete_film_form_top_container{
+    min-height:200px;
+}
+
+#wpfilmlist-background-color-image-div-add{
+    text-align:center;
+}
+
+.wpfilmlist_control_links_and_sort{
+
+}
+
+#wpfilmlist_title_search{
+    width: 245px;
+    margin-bottom:10px;
+}
+
+#wpfilmlist-movie-tv-selection{
+    width: 155px;
+    position: relative;
+    bottom: 10px;
+}
+
+#wpfilmlist_missing_cat_link{
+    display:block;
+}
+
+#wpfilmlist-ratings-select-edit{
+    width: 100%;
+    padding: 5px;
+    height: auto;
+}
+
+.wpfilmlist-indiv-film-container-div{
+    display:inline-table;
+    text-align:center;
+}
+
+.wpfilmlist-indiv-film-container-div p{
+    margin:0;
+    margin:0em;
+    margin-bottom:5px!important;
+}
+
+#wpfilmlist_cover_image_indiv_id{
+    cursor:pointer;
+}
+
+#wpfilmlist_cover_image_indiv_id p{
+    margin:0;
+    margin:0em;
+    margin-bottom:5px!important;
+}
+
+.wpfilmlist-jre-add-film-div{
+    float:left;
+    height:90px;
+    width: 300px;
+}
+
+#wpfilmlist_add_film_link{
+    display: inline;
+    background-color: #4AB6FE;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px 20px 5px 0px;
+    position: relative;
+    z-index:999;
+}
+
+#wpfilmlist-movie-tv-selection{
+    margin: 5px 0px 5px 0px;
+}
+
+.wpfilmlist-ui-quote-area{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+.wpfilmlist-label-entry-search{
+    display:inline;
+}
+
+#wpfilmlist_edit_film_form input{
+    width: 100%;
+}
+
+.wpfilmlist-add-show-label{
+    display:inline-block;
+}
+
+#wpfilmlist-background-color-image-div-add .wpfilmlist_entry_div{
+    margin:15px;
+}
+
+.wpfilmlist_top_container .wpfilmlist_entry_div .wpfilmlist_inner_main_display_div .wpfilmlist-review-star-p{
+    margin: 0;
+    bottom: 10px;
+}
+
+.wpfilmlist-rating-image{
+    width: 50px;
+}
+
+.wpfilmlist_inner_main_display_div_for_search{
+    box-shadow: none;
+    height: 100%;
+    background: none;
+    text-align: center;
+    color: white;
+}
